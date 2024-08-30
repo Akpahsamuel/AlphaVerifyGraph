@@ -1,0 +1,8 @@
+{
+  "optimism-sepolia": {
+    "AlphaVerify": {
+      "address": "0xCaeC3B55dF16ec145B9e262a3Bd2A225b081630F",
+      "startBlock": 16620984
+    }
+  }
+}
