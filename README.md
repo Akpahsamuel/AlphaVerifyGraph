@@ -97,4 +97,3 @@ your-repository-name/
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-Please note that this README is a template and may need to be adapted to your specific project requirements.
